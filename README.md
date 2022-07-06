@@ -1,2 +1,2 @@
 # Cadastro_Selenium
- Bot para capturar infomações do sistema de cadastro
+ Usa bot para capturar informações do sistema de cadastro
